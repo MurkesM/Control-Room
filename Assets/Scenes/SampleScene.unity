@@ -7976,21 +7976,9 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 821060497}
     m_Modifications:
-    - target: {fileID: 1433842247601503438, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
-      propertyPath: m_Layer
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 2361559706357526700, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
-      propertyPath: m_Layer
-      value: 6
-      objectReference: {fileID: 0}
     - target: {fileID: 2766295626272620325, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
       propertyPath: m_RootOrder
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2766295626272620325, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.63639694
       objectReference: {fileID: 0}
     - target: {fileID: 2766295626272620325, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8035,34 +8023,6 @@ PrefabInstance:
     - target: {fileID: 3036510750860928179, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
       propertyPath: m_Name
       value: Strut_01 (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 3036510750860928179, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
-      propertyPath: m_Layer
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 3710379637513324049, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
-      propertyPath: m_Layer
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 4544926612044185515, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
-      propertyPath: m_Layer
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 4840988882736992884, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
-      propertyPath: m_Layer
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 6175495245934122515, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
-      propertyPath: m_Layer
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 8905187571114944671, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
-      propertyPath: m_Layer
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 8927991400833527283, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
-      propertyPath: m_Layer
-      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 860ae140d0924284a96ddc86cdf24b70, type: 3}
